@@ -34,3 +34,6 @@
 [submodule "2004"]
 	path = 2004
 	url = ./2004
+[submodule "2005"]
+	path = 2005
+	url = ./2005
